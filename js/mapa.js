@@ -45,7 +45,7 @@ function carregarPontos() {
 			});
 			
 			var myOptions = {
-				content: "<p><b>Local:</b>" + ponto.Descricao + "<br><b>Endereço:</b> " + ponto.endereco + "<br><b>Contato:</b>" + ponto.telefone + "<br>" + ponto.nleitos + " Leitos disponíveis.<br><b>Áreas disponíveis:</b> Clínico Geral, Nutrição, Psicologia, Pediatra. <br> <a href=../cadastroconsulta.php?id=" + ponto.id + ">Cadastrar Consulta</a></p>",
+				content: "<p><b>Local: </b>" + ponto.Descricao + "<br><b>Endereço: </b> " + ponto.endereco + "<br><b>Contato: </b>" + ponto.telefone + "<br>" + ponto.nleitos + " Leitos disponíveis.<br><b>Áreas disponíveis:</b> Clínico Geral, Nutrição, Psicologia, Pediatra. <br> <a href=../cadastroconsulta.php?id=" + ponto.id + ">Cadastrar Consulta</a></p>",
 
 				pixelOffset: new google.maps.Size(-150, 0)
         	};

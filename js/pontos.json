@@ -1,21 +1,21 @@
 [
 	{
-		"Id": 1,
+		"id": 1,
         "Latitude": "-19.212355602107472",
         "Longitude": "-44.20234468749999",
 		"Descricao": "HOSTPITAL 1",
    "endereco":"Avenida 1",
-    "nleitoso":"150",
+    "nleitos":"150",
     "telefone":"9898797987"
     },
     
   	{
-		"Id": 10,
+		"id": 10,
     	"Latitude": "-22.87877194865705",
     	"Longitude": "-47.05783424072257",
 		"Descricao": "HOSPITAL 2 ",
     "endereco":"Avenida 2",
-    "nleitoso":"200",
+    "nleitos":"200",
     "telefone":"9898797987"
   	}
 ]

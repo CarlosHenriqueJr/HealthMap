@@ -17,9 +17,9 @@
             
 <div style="width:27%;float:left; padding-top: 35px; padding-left: 20px;"><a href="../index.php"><img src="../voltar.jpg" width="30"></a></div>
 
-<div  align="center" style="width:40%;float:left;margin-right: 60px;padding-top: 15px; "><img src="../logo2.jpg" width="90"></div>
-<div  align="center" style="width:15%;float:left;padding-top: 15px; "> 
-    <div><strong>Admin</strong></div>
+<div  align="center" style="width:38%;float:left;margin-right: 60px;padding-top: 15px; "><img src="../logo2.jpg" width="90"></div>
+<div  align="center" style="width:13%;float:left;padding-top: 15px; "> 
+    <div><strong>Adm</strong></div>
     <div><img src="../circulo.jpg" width="50"></div>
 
      </div>
